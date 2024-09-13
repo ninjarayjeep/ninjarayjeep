@@ -23,6 +23,10 @@
 **Saturday and Sunday:**
 1. 🕦 Wake up (11:30 AM)
 2. 🕧 Sleeping (0:30 AM)
+## Social Media:
+- 🎵 [Tiktok](https://www.tiktok.com/@ninjarayjeep12345)
+- F [Facebook](https://www.facebook.com/profile.php?id=61565773619954)
+- 🐦 [Twitter](https://x.com/ninjarayjeep1)
    
 <hr>
 
