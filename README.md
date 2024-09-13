@@ -1,5 +1,7 @@
 # INFORMATION:
+
 <hr>
+
 ## Coding:
 - 👋 Hi, I’m @ninjarayjeep
 - 👀 I’m interested in HTML and CSS
@@ -21,7 +23,9 @@
 **Saturday and Sunday:**
 1. 🕦 Wake up (11:30 AM)
 2. 🕧 Sleeping (0:30 AM)
+   
 <hr>
+
 That's all :)
 
 <!---
